@@ -1,3 +1,9 @@
+![image info](./assets/teste.png)
+# O que esse projeto faz:
+- Funcionalide de cadastrar uma tarefa no banco de dados
+- Listar as tarefas cadastradas no banco
+- Publicação no DockerHub pelo github actions
+- Teste local com docker-compose
 # Instalação Docker
 https://docs.docker.com/get-docker/
 # Instalaçao do docker-compose
